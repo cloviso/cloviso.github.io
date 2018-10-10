@@ -112,6 +112,9 @@ function fullName{
     var strDt = "2018-09-30";
     
     
+   test_fix1;
+    
+    
 }
 
 
